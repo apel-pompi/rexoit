@@ -44,5 +44,7 @@ class Salary extends Command
             ]);
         }
     }
+    
+    $this->info('Salary Update Successfully');
 }
 ?>
