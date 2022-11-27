@@ -1,3 +1,6 @@
+#Composer File
+composer require apel/rexoit
+
 #this is first task work
 
 #Arisan commad page is Command> Salary.php,
@@ -13,3 +16,6 @@ Update your composer.json File
     
  Update config> app.php file in providers
  Apel\Rexoit\TaskServiceProvider::class,
+ 
+ 
+ 
