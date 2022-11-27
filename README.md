@@ -12,10 +12,15 @@ Update your composer.json File
 
 
 "autoload-dev": {
+
         "psr-4": {
+	
             "Tests\\": "tests/",
+	    
 	          "Apel\\Rexoit\\": "vendor/apel\rexoit/src/"
+		  
         }
+	
     },
     
     
