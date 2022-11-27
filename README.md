@@ -29,5 +29,8 @@ Update your composer.json File
  
  Apel\Rexoit\TaskServiceProvider::class,
  
+ Then command: php artisan migrate
  
+ 
+ Salary Command: php artisan salary:create --salary_amount=500 --cash_amount=50 --status=open
  
