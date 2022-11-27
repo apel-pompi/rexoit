@@ -32,5 +32,5 @@ Update your composer.json File
  Then command: php artisan migrate
  
  
- Salary Command: php artisan salary:create --salary_amount=500 --cash_amount=50 --status=open
+ Salary Command: php artisan rexoit:salary --salary_amount=500 --cash_amount=50 --status=open
  
