@@ -1,0 +1,19 @@
+{
+    "name": "apel/rexoit",
+    "description": "this is first task",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Md. Ashrafur Rahman",
+            "email": "apel.pompi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Apel\\Rexoit\\": "src/"
+        }
+    }
+}
